@@ -26,7 +26,7 @@
 
 --play my game--
 
-https://web.roblox.com/games/6961390735/Old-murder-NUKE-UPDATE?refPageId=0df1f1af-44ef-4bfd-ab4c-dc0c23505385
+https://web.roblox.com/games/6961390735/Old-murder-NUKE-UPDATE
 
 see image-->  https://github.com/rafisyraf/OldMurderChangeLog/blob/main/2021-07-08%20(2).png
 
