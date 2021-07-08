@@ -1,2 +1,2 @@
 # OldMurderChangeLog
-This is Ifo change log in game
+This is Info change log in game
